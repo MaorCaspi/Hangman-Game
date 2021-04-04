@@ -1,0 +1,5 @@
+bag
+dog
+cat
+computer
+boy
