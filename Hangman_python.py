@@ -121,7 +121,7 @@ def choose_word():##return a random word from the text file
 def main():
     print(HANGMAN_ASCII_ART)
     secret_word=(choose_word()).strip()##read a random word from the text file
-    NumberOfSouls = 6
+    NumberOfSouls = MAX_TRIES
     sucssesCounter=0
     print_hangman(NumberOfSouls+1)
     old_letters = []##arrays of guessed letters
