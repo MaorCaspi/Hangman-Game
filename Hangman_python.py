@@ -1,7 +1,7 @@
 ## Hangman game
-##The author: Maor Caspi
+##Author: Maor Caspi
 ## Date: April 2021
-## Note: B4 running create "words.txt" with word in each new line.
+## Note: Before running create "words.txt" with word in each new line.
 
 import random
 MAX_TRIES=6
